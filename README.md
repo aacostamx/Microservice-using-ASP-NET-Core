@@ -1,4 +1,4 @@
-Microservices
+Microservices Using ASP.NET Core
 -------------
 
 The term microservices portrays a software development style that has
@@ -47,7 +47,7 @@ service so the underlying microservices look as shown in the following
 picture.
 
 ![Microservice Using ASP.NET
-Core](./Microservices%20Using%20ASP.NET%20Core_files/Microservice%20Using%20ASP.NET%20Core02.png) 
+Core](https://www.codeproject.com/KB/aspnet/1276639/image002.png) 
 
  
 
@@ -61,7 +61,7 @@ Following is the diagrammatic representation of monolithic architecture
 being package completely or being service based.
 
 ![Microservice Using ASP.NET
-Core](./Microservices%20Using%20ASP.NET%20Core_files/Microservice%20Using%20ASP.NET%20Core03.png) 
+Core](https://www.codeproject.com/KB/aspnet/1276639/image003.png) 
 
 Microservice is an approach to create small services each running in
 their own space and can communicate via messaging. These are independent
@@ -71,7 +71,7 @@ Following is the diagrammatic representation of microservices
 architecture.
 
 ![Microservice Using ASP.NET
-Core](./Microservices%20Using%20ASP.NET%20Core_files/Microservice%20Using%20ASP.NET%20Core04.png) 
+Core](https://www.codeproject.com/KB/aspnet/1276639/image004.png) 
 
 In monolithic architecture, the database remains the same for all the
 functionalities even if an approach of service-oriented architecture is
@@ -101,4 +101,7 @@ and database with the isolated repository so that the service could be
 deployed independently.
 
 ![Microservice Using ASP.NET
-Core](./Microservices%20Using%20ASP.NET%20Core_files/Microservice%20Using%20ASP.NET%20Core05.png) 
+Core](https://www.codeproject.com/KB/aspnet/1276639/image005.png) 
+
+
+https://www.codeproject.com/Articles/1276639/Microservice-using-ASP-NET-Core
